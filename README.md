@@ -1,22 +1,24 @@
 # DSCI525_group02
 ## Introduction
 
-This project involves an ensemble machine learning models in the cloud to predict daily rainfall in Australia on a large dataset, in order to forecast future daily rainfall amount in Australia. The rainfall data is collected from daily rainfall from year 1889 to year 2014 in New South Wales, Australia (~ 6GB). This dataset is also hosted in [figshare](https://figshare.com/articles/dataset/Daily_rainfall_over_NSW_Australia/14096681) and we leverage the `figshareAPI` to get the dataset.
+This project is a team project involving big data. We will build and deploy an ensemble machine learning model in the cloud to predict daily rainfall in Australia on a large dataset, in order to forecast future daily rainfall amount in Australia. 
+
+The rainfall data we used is around 6GB, which is collected from daily rainfall from year 1889 to year 2014 in New South Wales, Australia. This dataset is also hosted in [figshare](https://figshare.com/articles/dataset/Daily_rainfall_over_NSW_Australia/14096681) and we leverage the `figshareAPI` to get the dataset.
 ## Objectives
 
 There are four objectives for this project:
 
-1. Milestone 1 [(Link)](https://github.com/UBC-MDS/DSCI525_group02/blob/main/notebooks/Milestone1.ipynb): Retrieve the data from website using figshareAPI and perform EDA in different data format (e.g. CSV, Parquet)
+1.  [(Milestone 1)](https://github.com/UBC-MDS/DSCI525_group02/blob/main/notebooks/Milestone1.ipynb): Retrieve the data from website using figshareAPI and perform EDA in different data format (e.g. CSV, Parquet)
 
-2. TBC
+2. Milestone 2
 
-3. TBC
+3. Milestone 3
 
-4. TBC
+4. Milestone 4
 
 ## Dependencies
 
-Please see all the dependencies listed in `group2.yml`.
+All the dependencies are listed in `group2.yml`.
 
 To create and activate the environment, run the following commands in the command line from the root directory of this project:
 
