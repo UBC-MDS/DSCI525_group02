@@ -8,7 +8,7 @@ The rainfall data we used is around 6GB, which is collected from daily rainfall 
 
 There are four objectives for this project:
 
-1.  [(Milestone 1)](https://github.com/UBC-MDS/DSCI525_group02/blob/main/notebooks/Milestone1.ipynb): Retrieve the data from website using figshareAPI and perform EDA in different data format (e.g. CSV, Parquet)
+1.  [Milestone 1](https://github.com/UBC-MDS/DSCI525_group02/blob/main/notebooks/Milestone1.ipynb): Retrieve the data from website using figshareAPI and perform EDA in different data format (e.g. CSV, Parquet)
 
 2. Milestone 2
 
