@@ -10,7 +10,7 @@ There are four objectives for this project:
 
 1.  [Milestone 1](https://github.com/UBC-MDS/DSCI525_group02/blob/main/notebooks/Milestone1.ipynb): Retrieve the data from website using figshareAPI and perform EDA in different data format (e.g. CSV, Parquet)
 
-2. Milestone 2
+2. Milestone 2](https://github.com/UBC-MDS/DSCI525_group02/blob/main/notebooks/Milestone2.ipynb): Set up a EC2 instance on AWS, create a collaborative environment and wrangle the data in preparation for machine learning
 
 3. Milestone 3
 
