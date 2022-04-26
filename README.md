@@ -12,9 +12,9 @@ There are four objectives for this project:
 
 2. [Milestone 2](https://github.com/UBC-MDS/DSCI525_group02/blob/main/notebooks/Milestone2.ipynb): Set up a EC2 instance on AWS, create a collaborative environment and wrangle the data in preparation for machine learning
 
-3. [Milestone 3](https://github.com/UBC-MDS/DSCI525_group02/blob/main/notebooks/Milestone3.ipynb): Set up a spark cluster and develop your machine learning using sckit-learn and spark's MLlib
+3. [Milestone 3](https://github.com/UBC-MDS/DSCI525_group02/blob/main/notebooks/Milestone3.ipynb): Set up a spark cluster and develop a machine learning model using sckit-learn and spark's MLlib
 
-4. Milestone 4
+4. [Milestone 4](https://github.com/UBC-MDS/DSCI525_group02/blob/main/notebooks/Milestone4.ipynb): Deploy the machine learning model in Milestone 3 on AWS EC2 and summarise the journey across 4 milestones 
 
 ## Dependencies
 
